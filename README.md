@@ -1,6 +1,6 @@
 # 📍 TOUR-MANAGEMENT
 
-Live Demo: [https://tour-management-platform.vercel.app/](https://tour-management-platform.vercel.app/) ([GitHub][1])
+Live Demo: [https://tour-management-platform.vercel.app/](https://tour-management-platform.vercel.app/) 
 
 A full-stack **Tour Management Web Application** that allows users to explore travel destinations, view tour packages, and manage bookings — with a modern frontend and a backend API.
 
